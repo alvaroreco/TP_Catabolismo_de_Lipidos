@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1100 1500"
+   width="2200"
+   height="3000"
+   font-family="Arial, Helvetica, sans-serif"
+   version="1.1"
+   id="svg105"
+   sodipodi:docname="mitocondria_experiment_celular.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="Mitocondria_experimental.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <sodipodi:namedview
+     id="namedview105"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.42"
+     inkscape:cx="776.19048"
+     inkscape:cy="986.90476"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg105"
+     inkscape:export-bgcolor="#ffffffff" />
+  <metadata
+     id="metadata1">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3OTE3MzNkZS04ZjlkLTRhNjMtOTE3MC1hMmE4NWVkNDNjNDQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJOlI3/6Ttti5JiYFfNpjwEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxODAwZTQ3Yy02YzUxLTQ5NjAtOTYwYy1mOTJjYjMxYTJmODFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNon51ExYqfiIvCl8SKJOap3wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKV3mcT2MVKCndelHDnQHOiucIriqi4pkwt5GD0m0Nx+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI4RjbZbfnar8dvQqNvn4EgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBu05ztHOLYDcBQ1bUuox3WU3pr1krvjpRCEy0R6wijwGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjFZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc5MTczM2RlLThmOWQtNGE2My05MTcwLWEyYTg1ZWQ0M2M0NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAxODczYTZiLTE2ZjAtNDBhOS1hMTA4LTIzNmMxNWRiNmZiMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCApXeZxPYxUoKd16UcOdAc6K5wiuKqLimTC3kYPSbQ3H6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggkz8l3JMeNYo/8oeIHIgx5KiWhHDunNSkXE5NsUSy/T6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggzKmdKKUnmGBW6k913KW/ukeVEgX3mYU9SUK3z34S06B0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGkLm2zZ70FwR1IHuimTqS/K++amB5YpUy1V5Kj+m1idFmL0EzsbiDbMCSVZXhKAWi+KcW4FWLyFI/CAvkiuEzY=</c2pa:manifest>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <linearGradient
+       id="swatch107"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fdf9ec;stop-opacity:1;"
+         offset="0"
+         id="stop107" />
+    </linearGradient>
+    <linearGradient
+       id="swatch106"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#a643cb;stop-opacity:1;"
+         offset="0"
+         id="stop106" />
+    </linearGradient>
+    <marker
+       id="ak"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#333333"
+         id="path1" />
+    </marker>
+    <marker
+       id="ab"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#2a6fb0"
+         id="path2" />
+    </marker>
+    <marker
+       id="ag"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto-start-reverse"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#2e8b57"
+         id="path3" />
+    </marker>
+    <marker
+       id="ao"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto-start-reverse"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#e07a1f"
+         id="path4" />
+    </marker>
+    <marker
+       id="av"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#7b3fa0"
+         id="path5" />
+    </marker>
+    <marker
+       id="ar"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#c0392b"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-8-1" />
+    </marker>
+    <marker
+       id="ak-2"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#333333"
+         id="path1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8-16"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8-16-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-8-8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8-16-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-8-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-8-16-3-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-8-8-3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-86" />
+    </marker>
+    <marker
+       id="ag-9"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto-start-reverse"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#2e8b57"
+         id="path3-3" />
+    </marker>
+    <marker
+       id="ar-6"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#c0392b"
+         id="path6-0" />
+    </marker>
+    <marker
+       id="av-1"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#7b3fa0"
+         id="path5-8" />
+    </marker>
+    <marker
+       id="av-6"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#7b3fa0"
+         id="path5-3" />
+    </marker>
+  </defs>
+  <style
+     id="style6">
+text{fill:#222;font-size:17px}
+.m{text-anchor:middle}.e{text-anchor:end}.B{font-weight:bold}.s{font-size:14px}.h{font-size:15px}
+.bb{fill:#e3eef8;stroke:#2a6fb0;stroke-width:2}.kb{fill:#f2f2f2;stroke:#666;stroke-width:2}
+.ob{fill:#fdeedd;stroke:#e07a1f;stroke-width:2}.vb{fill:#efe6f6;stroke:#7b3fa0;stroke-width:2.5}
+.rb{fill:#fbe9e7;stroke:#c0392b;stroke-width:2}.gb{fill:#e6f4ec;stroke:#2e8b57;stroke-width:2}
+.wb{fill:#fff;stroke:#555;stroke-width:2}
+.ln{fill:none;stroke:#333;stroke-width:2.5}
+</style>
+  <text
+     x="900"
+     y="38"
+     class="m B"
+     style="font-size:22px"
+     id="text6" />
+  <!-- Mitocondria -->
+  <rect
+     x="19.978157"
+     y="119.97816"
+     width="1016.2722"
+     height="1304.5348"
+     rx="34.645638"
+     fill="#eef3f8"
+     stroke="#7a7a7a"
+     stroke-width="3.95632"
+     id="rect7" />
+  <rect
+     x="45.026482"
+     y="145.02649"
+     width="967.57996"
+     height="947.30994"
+     rx="35.113789"
+     fill="#fdf9ec"
+     stroke="#555555"
+     stroke-width="4.05296"
+     id="rect8" />
+  <text
+     x="679.04761"
+     y="113.57143"
+     class="e B s"
+     style="font-size:21.3333px;fill:#666666"
+     id="text8">Membrana externa</text>
+  <text
+     x="788.57141"
+     y="141.57143"
+     class="m B s"
+     style="font-size:21.3333px;fill:#666666"
+     id="text9">Membrana interna</text>
+  <text
+     x="1540"
+     y="172"
+     class="m B h"
+     style="fill:#666666"
+     id="text10" />
+  <text
+     x="720"
+     y="195"
+     class="m B"
+     style="font-size:21.3333px;fill:#666666"
+     id="text11">Matriz mitocondrial</text>
+  <!-- Entrada -->
+  <rect
+     x="115"
+     y="58"
+     width="250"
+     height="40"
+     rx="6"
+     class="wb"
+     id="rect11" />
+  <text
+     x="240"
+     y="84"
+     class="m"
+     id="text12">Acil-carnitina (C16–C4)</text>
+  <line
+     x1="240"
+     y1="98"
+     x2="240"
+     y2="203"
+     class="ln"
+     marker-end="url(#ak)"
+     id="line12" />
+  <text
+     x="256"
+     y="182"
+     class="h"
+     id="text14">conversión a Acil-CoA (CPT2)</text>
+  <!-- β-oxidación -->
+  <g
+     class="m"
+     id="g19">
+    <rect
+       x="115"
+       y="205"
+       width="250"
+       height="40"
+       rx="6"
+       class="bb"
+       id="rect14" />
+    <text
+       x="240"
+       y="231"
+       id="text15">Acil-CoA</text>
+    <rect
+       x="115"
+       y="310"
+       width="250"
+       height="40"
+       rx="6"
+       class="bb"
+       id="rect15" />
+    <text
+       x="240"
+       y="336"
+       id="text16">Enoil-CoA</text>
+    <rect
+       x="115"
+       y="415"
+       width="250"
+       height="40"
+       rx="6"
+       class="bb"
+       id="rect16" />
+    <text
+       x="240"
+       y="441"
+       id="text17">3-Hidroxiacil-CoA</text>
+    <rect
+       x="115"
+       y="520"
+       width="250"
+       height="40"
+       rx="6"
+       class="bb"
+       id="rect17" />
+    <text
+       x="240"
+       y="546"
+       id="text18">3-Cetoacil-CoA</text>
+    <rect
+       x="115"
+       y="625"
+       width="250"
+       height="40"
+       rx="6"
+       class="bb"
+       id="rect18" />
+    <text
+       x="240"
+       y="651"
+       id="text19">Acetil-CoA + Acil-CoA(n−2)</text>
+  </g>
+  <g
+     stroke="#2a6fb0"
+     stroke-width="2.5"
+     fill="none"
+     id="g22">
+    <line
+       x1="240"
+       y1="245"
+       x2="240"
+       y2="310"
+       marker-end="url(#ab)"
+       id="line19" />
+    <line
+       x1="240"
+       y1="350"
+       x2="240"
+       y2="415"
+       marker-end="url(#ab)"
+       id="line20" />
+    <line
+       x1="240"
+       y1="455"
+       x2="240"
+       y2="520"
+       marker-end="url(#ab)"
+       id="line21" />
+    <line
+       x1="240"
+       y1="560"
+       x2="240"
+       y2="625"
+       marker-end="url(#ab)"
+       id="line22" />
+    <path
+       d="M 115,645 H 100 V 225 h 13"
+       marker-end="url(#ab)"
+       id="path22" />
+  </g>
+  <g
+     fill="#2a6fb0"
+     id="g29">
+    <text
+       x="256"
+       y="274"
+       class="B"
+       style="fill:#2a6fb0"
+       id="text22">ACAD</text>
+    <text
+       x="256"
+       y="293"
+       class="s"
+       style="fill:#2a6fb0"
+       id="text23" />
+    <text
+       x="256"
+       y="378"
+       class="B"
+       style="fill:#2a6fb0"
+       id="text24">ECH</text>
+    <text
+       x="256"
+       y="483"
+       class="B"
+       style="fill:#2a6fb0"
+       id="text25">HAD</text>
+    <text
+       x="256"
+       y="502"
+       class="s"
+       style="fill:#2a6fb0"
+       id="text26" />
+    <text
+       x="256"
+       y="588"
+       class="B"
+       style="fill:#2a6fb0"
+       id="text27">KAT</text>
+    <text
+       x="256"
+       y="607"
+       class="s"
+       style="fill:#2a6fb0"
+       id="text28">+ CoA-SH</text>
+    <text
+       x="80"
+       y="435"
+       class="m s"
+       transform="rotate(-90,80,435)"
+       style="fill:#2a6fb0"
+       id="text29">rondas repetidas de β-oxidación</text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="154.48149"
+       y="297.37036"
+       id="text106"><tspan
+         sodipodi:role="line"
+         id="tspan106"
+         style="font-size:16px;stroke-width:0.5"
+         x="154.48149"
+         y="297.37036">FADH₂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="184.53008"
+       y="259.20688"
+       id="text106-9"><tspan
+         sodipodi:role="line"
+         id="tspan106-4"
+         style="font-size:16px;stroke-width:0.5"
+         x="184.53008"
+         y="259.20688">FAD</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+       d="m 219.78427,288.47302 c 23.92383,-7.11022 23.30058,-32.5614 -1.26352,-33.33413 l -0.36759,-0.0547"
+       id="path137"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="861.99304"
+       y="620.90741"
+       id="text106-0"><tspan
+         sodipodi:role="line"
+         id="tspan106-9"
+         style="font-size:16px;stroke-width:0.5"
+         x="861.99304"
+         y="620.90741">FADH₂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="870.74536"
+       y="580.89203"
+       id="text106-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan106-4-0"
+         style="font-size:16px;stroke-width:0.5"
+         x="870.74536"
+         y="580.89203">FAD</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-4)"
+       d="m 851.41089,602.04641 c -18.44205,-16.81653 -6.8005,-39.45776 15.64989,-29.45915 l 0.35474,0.11079"
+       id="path137-6"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="159.08565"
+       y="508.92593"
+       id="text106-4"><tspan
+         sodipodi:role="line"
+         id="tspan106-5"
+         style="font-size:16px;stroke-width:0.5"
+         x="159.08565"
+         y="508.92593">NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="178.02313"
+       y="469.83652"
+       id="text106-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan106-4-1"
+         style="font-size:16px;stroke-width:0.5"
+         x="178.02313"
+         y="469.83652">NAD⁺</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8)"
+       d="m 219.7588,499.10266 c 23.92383,-7.11022 23.30058,-32.5614 -1.26352,-33.33413 l -0.36759,-0.0547"
+       id="path137-7"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="455.84488"
+       y="396.7037"
+       id="text106-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan106-5-6"
+         style="font-size:16px;stroke-width:0.5"
+         x="455.84488"
+         y="396.7037">NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="469.22684"
+       y="434.46616"
+       id="text106-9-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan106-4-1-8"
+         style="font-size:16px;stroke-width:0.5"
+         x="469.22684"
+         y="434.46616">NAD⁺</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-16)"
+       d="m 514.80608,396.72256 c 23.04826,9.57509 19.76466,34.82126 -4.7454,33.01881 l -0.3713,0.0159"
+       id="path137-7-9"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="943.73383"
+       y="453.66986"
+       id="text106-4-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan106-5-6-1"
+         style="font-size:16px;stroke-width:0.5"
+         x="943.73383"
+         y="453.66986">NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="933.96759"
+       y="414.58044"
+       id="text106-9-5-1-38"><tspan
+         sodipodi:role="line"
+         id="tspan106-4-1-8-7"
+         style="font-size:16px;stroke-width:0.5"
+         x="933.96759"
+         y="414.58044">NAD⁺</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-16-3)"
+       d="m 931.34806,443.74663 c -24.41461,-5.18009 -25.82262,-30.59994 -1.3983,-33.32875 l 0.36207,-0.0838"
+       id="path137-7-9-4"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#2e8b35;fill-opacity:1;stroke-width:0.5"
+       x="562.77936"
+       y="431.01855"
+       id="text106-4-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan106-5-6-4"
+         style="font-size:16px;fill:#2e8b35;fill-opacity:1;stroke-width:0.5"
+         x="562.77936"
+         y="431.01855">NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#3b8b2e;fill-opacity:1;stroke-width:0.5"
+       x="563.00824"
+       y="468.78094"
+       id="text106-9-5-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan106-4-1-8-1"
+         style="font-size:16px;fill:#3b8b2e;fill-opacity:1;stroke-width:0.5"
+         x="563.00824"
+         y="468.78094">NAD⁺</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#2c7527;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-16-2)"
+       d="m 550.24775,455.70616 c -21.60622,-12.49302 -15.06516,-37.0972 9.00193,-32.12048 l 0.37021,0.0325"
+       id="path137-7-9-2"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-2.8972984"
+       inkscape:transform-center-y="-16.145297" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="674.58563"
+       y="814.03705"
+       id="text106-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan106-5-7"
+         style="font-size:16px;fill:#ff0000;stroke-width:0.5"
+         x="674.58563"
+         y="814.03705">NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+       x="717.59723"
+       y="832.35504"
+       id="text106-9-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan106-4-1-1"
+         style="font-size:16px;fill:#ff0000;stroke-width:0.5"
+         x="717.59723"
+         y="832.35504">NAD⁺</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#de1414;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-1)"
+       d="m 733.37386,804.00795 c -2.39158,-24.84321 -27.49011,-29.1111 -32.958,-5.15083 l -0.12416,0.35028"
+       id="path137-7-4"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <!-- Entrada de Acetil-CoA al ciclo -->
+  <path
+     d="m 365,645 h 35 V 277 h 198.88889"
+     class="ln"
+     marker-end="url(#ak)"
+     id="path29"
+     sodipodi:nodetypes="cccc" />
+  <text
+     x="408"
+     y="268"
+     class="B h"
+     id="text30">Acetil-CoA</text>
+  <!-- Krebs -->
+  <g
+     class="ln"
+     style="stroke:#666666"
+     id="g35">
+    <path
+       d="m 901,371 a 190,190 0 0 1 0,118"
+       marker-end="url(#ak)"
+       id="path32" />
+    <path
+       d="m 866,552 a 190,190 0 0 1 -69,52"
+       marker-end="url(#ak)"
+       id="path33" />
+    <path
+       d="M 643,604 A 190,190 0 0 1 574,552"
+       marker-end="url(#ak)"
+       id="path34" />
+    <path
+       d="m 579,303 a 190,190 0 0 1 76,-52"
+       marker-end="url(#ak)"
+       id="path35" />
+    <path
+       d="m 790.53766,243.61242 a 190,190 0 0 1 68.36864,61.6906"
+       marker-end="url(#ak-2)"
+       id="path35-2"
+       style="stroke:#666666;marker-end:url(#ak-2)" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+     x="865.66431"
+     y="266.03705"
+     id="text106-4-7-1-2"><tspan
+       sodipodi:role="line"
+       id="tspan106-5-6-1-8"
+       style="font-size:16px;stroke-width:0.5"
+       x="865.66431"
+       y="266.03705">NADH</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
+     x="818.86102"
+     y="239.91058"
+     id="text106-9-5-1-38-6"><tspan
+       sodipodi:role="line"
+       id="tspan106-4-1-8-7-0"
+       style="font-size:16px;stroke-width:0.5"
+       x="818.86102"
+       y="239.91058">NAD⁺</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-16-3-6)"
+     d="m 852.07015,267.38642 c -21.73292,12.27136 -39.60899,-5.8559 -23.10212,-24.06352 l 0.21601,-0.30241"
+     id="path137-7-9-4-2"
+     sodipodi:nodetypes="ccc" />
+  <path
+     d="m 536.4678,490.33682 c -2.70093,-26.87406 -3.55044,-55.18517 -2.54854,-82.9632 0.45971,-12.74582 1.30922,-25.37939 2.54854,-37.71044"
+     fill="none"
+     stroke="#2e8b57"
+     stroke-width="2.83616"
+     marker-start="url(#ag)"
+     marker-end="url(#ag)"
+     id="path36"
+     sodipodi:nodetypes="csc"
+     style="stroke:#000000;stroke-width:2.836;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ag);marker-end:url(#RoundedArrow)" />
+  <g
+     class="m h"
+     id="g41">
+    <rect
+       x="655"
+       y="222"
+       width="130"
+       height="36"
+       rx="6"
+       class="kb"
+       id="rect36" />
+    <text
+       x="720"
+       y="245"
+       id="text36">Citrato</text>
+    <rect
+       x="820"
+       y="317"
+       width="130"
+       height="36"
+       rx="6"
+       class="kb"
+       id="rect37" />
+    <text
+       x="885"
+       y="340"
+       id="text37">α-Cetoglutarato</text>
+    <rect
+       x="820"
+       y="507"
+       width="130"
+       height="36"
+       rx="6"
+       class="kb"
+       id="rect38" />
+    <text
+       x="885"
+       y="530"
+       id="text38">Succinato</text>
+    <rect
+       x="655"
+       y="602"
+       width="130"
+       height="36"
+       rx="6"
+       class="kb"
+       id="rect39" />
+    <text
+       x="720"
+       y="625"
+       id="text39">Fumarato</text>
+    <rect
+       x="490"
+       y="507"
+       width="130"
+       height="36"
+       rx="6"
+       class="kb"
+       id="rect40" />
+    <text
+       x="555"
+       y="530"
+       id="text40">Malato</text>
+    <rect
+       x="490"
+       y="317"
+       width="130"
+       height="36"
+       rx="6"
+       class="gb"
+       id="rect41"
+       style="fill:#fcfffd;fill-opacity:1;stroke:#010403;stroke-opacity:1" />
+    <text
+       x="555"
+       y="340"
+       id="text41">Oxaloacetato</text>
+  </g>
+  <text
+     x="720"
+     y="400"
+     class="m B"
+     style="font-size:19px;fill:#555555"
+     id="text42">CICLO DE KREBS</text>
+  <rect
+     x="632"
+     y="445"
+     width="176"
+     height="38"
+     rx="6"
+     class="gb"
+     id="rect42" />
+  <text
+     x="720"
+     y="469"
+     class="m h"
+     style="fill:#1f6b40"
+     id="text43">Oxaloacetato exógeno</text>
+  <line
+     x1="640.69556"
+     y1="445.16367"
+     x2="593.52667"
+     y2="361.46597"
+     stroke="#2e8b57"
+     stroke-width="3.51795"
+     marker-end="url(#ag)"
+     id="line43" />
+  <line
+     x1="733.21887"
+     y1="711.63898"
+     x2="650.27393"
+     y2="760.11926"
+     stroke="#2e8b57"
+     stroke-width="3.51795"
+     marker-end="url(#ag-9)"
+     id="line43-4"
+     style="fill:#ff6600;stroke:#dd7400;stroke-width:3.518;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ao)" />
+  <g
+     class="s"
+     id="g52">
+    <text
+       x="778.70367"
+       y="292.11111"
+       class="B"
+       id="text44">IDH</text>
+    <text
+       x="834.25928"
+       y="429.62964"
+       class="B"
+       id="text46">α-KGDH</text>
+    <text
+       x="806.55554"
+       y="572.25928"
+       class="B"
+       id="text48">SDH</text>
+    <text
+       x="637.18518"
+       y="581.14819"
+       class="e B"
+       id="text50">FH</text>
+    <text
+       x="577.55554"
+       y="405.48148"
+       class="e B"
+       style="font-size:17px;fill:#020704;fill-opacity:1"
+       id="text51">MDH</text>
+  </g>
+  <!-- Cuerpos cetónicos -->
+  <line
+     x1="240"
+     y1="665"
+     x2="240"
+     y2="760"
+     class="ln"
+     style="stroke:#e07a1f"
+     marker-end="url(#ao)"
+     id="line52" />
+  <rect
+     x="115"
+     y="760"
+     width="250"
+     height="40"
+     rx="6"
+     class="ob"
+     id="rect52" />
+  <text
+     x="240"
+     y="786"
+     class="m"
+     id="text53">2 Acetil-CoA</text>
+  <line
+     x1="365"
+     y1="780"
+     x2="500"
+     y2="780"
+     class="ln"
+     style="stroke:#e07a1f"
+     marker-end="url(#ao)"
+     id="line53" />
+  <text
+     x="432"
+     y="770"
+     class="m B h"
+     style="fill:#c4600a"
+     id="text54">Cetogénesis</text>
+  <rect
+     x="500"
+     y="760"
+     width="150"
+     height="40"
+     rx="6"
+     class="ob"
+     id="rect54" />
+  <text
+     x="575"
+     y="786"
+     class="m"
+     id="text55">Acetoacetato</text>
+  <rect
+     x="738.21075"
+     y="684.67377"
+     width="188.65259"
+     height="39.763702"
+     rx="7.546104"
+     class="ob"
+     id="rect54-3"
+     style="fill:#fdeedd;stroke:#e07a1f;stroke-width:2.23629" />
+  <text
+     x="831.61108"
+     y="710.5556"
+     class="m"
+     id="text55-8"
+     style="font-size:17px;text-anchor:middle;fill:#222222">Acetoacetato exógeno</text>
+  <line
+     x1="764.67816"
+     y1="780"
+     x2="650.09717"
+     y2="780"
+     class="ln"
+     style="fill:#0000ff;stroke:#e01f1f;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#ab)"
+     marker-start="url(#ao)"
+     marker-end="url(#ao)"
+     id="line55" />
+  <text
+     x="720"
+     y="770"
+     class="m B h"
+     style="fill:#c4600a"
+     id="text56">BDH</text>
+  <rect
+     x="790"
+     y="760"
+     width="175"
+     height="40"
+     rx="6"
+     class="ob"
+     id="rect57" />
+  <text
+     x="877"
+     y="786"
+     class="m"
+     id="text58">β-Hidroxibutirato</text>
+  <path
+     d="M 520,760 V 690 H 400 v -38"
+     fill="none"
+     stroke="#e07a1f"
+     stroke-width="2.5"
+     stroke-dasharray="9, 6"
+     marker-end="url(#ao)"
+     id="path58"
+     style="stroke:#1f44e0;stroke-opacity:1;marker-end:url(#ab)" />
+  <text
+     x="410"
+     y="680"
+     class="s B"
+     style="fill:#0000ff"
+     id="text59">Predominante en miocitos</text>
+  <!-- Cadena respiratoria -->
+  <g
+     class="vb"
+     id="g60"
+     transform="translate(-941.7619,578.33334)">
+    <rect
+       x="1220.9524"
+       y="313.66666"
+       width="90"
+       height="36"
+       rx="6"
+       id="rect59" />
+    <rect
+       x="1058"
+       y="322.71429"
+       width="130"
+       height="36"
+       rx="6"
+       id="rect60" />
+  </g>
+  <text
+     x="177.7619"
+     y="927.5238"
+     class="m B"
+     id="text60"
+     style="font-size:21.3333px">NADH</text>
+  <text
+     x="1110"
+     y="256"
+     class="m s"
+     style="fill:#7b3fa0"
+     id="text61" />
+  <text
+     x="326.57144"
+     y="920.4762"
+     class="m h"
+     id="text62"
+     style="font-size:21.3333px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial, Helvetica, sans-serif;-inkscape-font-specification:'Arial, Helvetica, sans-serif Bold'"
+       id="tspan138">FADH₂</tspan></text>
+  <g
+     class="vb"
+     id="g66"
+     transform="translate(63,-128)">
+    <ellipse
+       cx="102.85712"
+       cy="1219.762"
+       rx="70"
+       ry="27"
+       id="ellipse62" />
+    <ellipse
+       cx="257.61905"
+       cy="1124.5238"
+       rx="45"
+       ry="24"
+       id="ellipse63" />
+    <circle
+       cx="255.2381"
+       cy="1219.7618"
+       r="32"
+       id="circle63" />
+    <ellipse
+       cx="417.14285"
+       cy="1222.1428"
+       rx="70"
+       ry="27"
+       id="ellipse64" />
+    <ellipse
+       cx="638.57141"
+       cy="1222.619"
+       rx="70"
+       ry="27"
+       id="ellipse65" />
+    <ellipse
+       cx="516.80951"
+       cy="1338.1904"
+       rx="50"
+       ry="24"
+       id="ellipse66" />
+  </g>
+  <g
+     class="m"
+     id="g71"
+     transform="translate(63,-128)">
+    <text
+       x="109.99999"
+       y="1223.381"
+       class="h B"
+       id="text66">Complejo I</text>
+    <text
+       x="255.2381"
+       y="1131.7144"
+       class="h B"
+       id="text67">ETF</text>
+    <text
+       x="255.2381"
+       y="1223.381"
+       class="h B"
+       id="text68">CoQ</text>
+    <text
+       x="420.90475"
+       y="1226.381"
+       class="h B"
+       id="text69">Complejo III</text>
+    <text
+       x="640.19049"
+       y="1224.619"
+       class="h B"
+       id="text70">Complejo IV</text>
+    <text
+       x="515"
+       y="1341.1906"
+       class="s B"
+       id="text71">Citocromo c</text>
+  </g>
+  <g
+     stroke="#7b3fa0"
+     stroke-width="2.5"
+     fill="none"
+     id="g78"
+     transform="translate(63,-128)">
+    <line
+       x1="101.66666"
+       y1="1075.3334"
+       x2="101.66666"
+       y2="1191.3334"
+       marker-end="url(#av)"
+       id="line72" />
+    <line
+       x1="257.61905"
+       y1="1055.1428"
+       x2="257.61905"
+       y2="1098.1428"
+       marker-end="url(#av)"
+       id="line73" />
+    <line
+       x1="256.19049"
+       y1="1146.1666"
+       x2="256.19049"
+       y2="1189.1666"
+       marker-end="url(#av-6)"
+       id="line73-8"
+       style="marker-end:url(#av-6)" />
+    <line
+       x1="292.1366"
+       y1="1219.6544"
+       x2="342.14911"
+       y2="1221.1029"
+       marker-end="url(#av)"
+       id="line75"
+       style="stroke-width:3.11772" />
+    <line
+       x1="173.80952"
+       y1="1218.2581"
+       x2="223.82204"
+       y2="1219.7065"
+       marker-end="url(#av-1)"
+       id="line75-9"
+       style="stroke-width:3.11772;marker-end:url(#av-1)" />
+    <line
+       x1="434.64307"
+       y1="1250.2316"
+       x2="479.11884"
+       y2="1316.4349"
+       marker-end="url(#av)"
+       id="line76" />
+    <line
+       x1="553.33246"
+       y1="1316.0011"
+       x2="619.85809"
+       y2="1249.5228"
+       marker-end="url(#av)"
+       id="line77" />
+    <line
+       x1="710.57343"
+       y1="1197.1312"
+       x2="751.09332"
+       y2="1166.0116"
+       marker-end="url(#av)"
+       id="line78"
+       style="stroke-width:2.77942" />
+  </g>
+  <rect
+     x="823.95239"
+     y="978.42859"
+     width="160"
+     height="70"
+     rx="8"
+     class="vb"
+     id="rect78" />
+  <text
+     x="903.95239"
+     y="1030.4286"
+     class="m B"
+     style="font-size:46px;fill:#5b2a7a"
+     id="text78">ATP</text>
+  <text
+     x="903.95239"
+     y="1071.4286"
+     class="m s"
+     style="fill:#7b3fa0"
+     id="text79">fosforilación oxidativa</text>
+  <!-- Rotenona -->
+  <rect
+     x="103.09525"
+     y="1192"
+     width="130"
+     height="32"
+     rx="6"
+     class="rb"
+     id="rect79" />
+  <text
+     x="168.09525"
+     y="1214"
+     class="m B"
+     style="fill:#c0392b"
+     id="text80">Rotenona</text>
+  <line
+     x1="166.64285"
+     y1="1190.5476"
+     x2="166.64285"
+     y2="1130.5476"
+     stroke="#c0392b"
+     stroke-width="3"
+     id="line80" />
+  <line
+     x1="184.64285"
+     y1="1126.5476"
+     x2="148.64285"
+     y2="1126.5476"
+     stroke="#c0392b"
+     stroke-width="6"
+     id="line81" />
+  <!-- Ferricianuro -->
+  <rect
+     x="175.47346"
+     y="1248.9132"
+     width="805.20654"
+     height="150.33963"
+     rx="38.343166"
+     fill="none"
+     stroke="#c0392b"
+     stroke-width="2.03828"
+     stroke-dasharray="8, 5"
+     id="rect81" />
+  <g
+     class="rb"
+     id="g84"
+     transform="translate(-1364.0661,921.987)">
+    <rect
+       x="1570"
+       y="383"
+       width="180"
+       height="56"
+       rx="6"
+       id="rect82" />
+    <rect
+       x="1855.7142"
+       y="382.14285"
+       width="180"
+       height="56"
+       rx="6"
+       id="rect83" />
+    <rect
+       x="2131.9048"
+       y="381.90475"
+       width="180"
+       height="56"
+       rx="6"
+       id="rect84" />
+  </g>
+  <g
+     class="m"
+     id="g93"
+     transform="translate(-1418.828,1144.6061)">
+    <text
+       x="1714.762"
+       y="180.38095"
+       class="h"
+       id="text84">Ferricianuro</text>
+    <text
+       x="1714.762"
+       y="203.38095"
+       id="text85">Fe(CN)₆³⁻</text>
+    <text
+       x="2001.4286"
+       y="181.90475"
+       class="h"
+       id="text86">Ferrocianuro</text>
+    <text
+       x="2001.4286"
+       y="204.90475"
+       id="text87">Fe(CN)₆⁴⁻</text>
+    <text
+       x="2275.6084"
+       y="182.96826"
+       class="B"
+       id="text88"><tspan
+         sodipodi:role="line"
+         id="tspan144"
+         x="2275.6084"
+         y="182.96826">Señal experimental</tspan><tspan
+         sodipodi:role="line"
+         id="tspan145"
+         x="2275.6084"
+         y="204.21826">ΔAbs 420</tspan></text>
+    <text
+       x="1660"
+       y="775"
+       class="h B"
+       style="fill:#c0392b"
+       id="text91" />
+    <text
+       x="1660"
+       y="794"
+       class="h B"
+       style="fill:#c0392b"
+       id="text92" />
+    <text
+       x="1660"
+       y="813"
+       class="h B"
+       style="fill:#c0392b"
+       id="text93" />
+  </g>
+  <g
+     stroke="#c0392b"
+     stroke-width="2.5"
+     fill="none"
+     id="g95"
+     transform="translate(-1032.2381,766.57144)">
+    <line
+       x1="1565.9183"
+       y1="458.62488"
+       x2="1419.4628"
+       y2="536.13708"
+       marker-end="url(#ar)"
+       id="line93"
+       style="stroke-width:2.18942" />
+    <line
+       x1="1708.896"
+       y1="565.323"
+       x2="1794.4374"
+       y2="565.91602"
+       marker-end="url(#ar)"
+       id="line94"
+       style="stroke-width:2.88263" />
+    <line
+       x1="1429.7858"
+       y1="566.14093"
+       x2="1515.3271"
+       y2="566.73395"
+       marker-end="url(#ar-6)"
+       id="line94-6"
+       style="stroke-width:2.88263;marker-end:url(#ar-6)" />
+  </g>
+  <text
+     x="422.21954"
+     y="1325.9396"
+     class="s"
+     style="fill:#c0392b"
+     id="text95">+ e⁻</text>
+  <!-- Panel comparativo -->
+</svg>
