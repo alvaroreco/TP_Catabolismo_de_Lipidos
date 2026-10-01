@@ -96,7 +96,7 @@ selected_fa = st.sidebar.selectbox(
 chain = fatty_acids[selected_fa]
 
 substrate = st.sidebar.number_input(
-    "Moleculas de sustrato",
+    "Moles de sustrato",
     value=50.0,
     min_value=0.0
 )
