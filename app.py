@@ -75,7 +75,7 @@ rotenone = st.sidebar.checkbox(
 
 ferricyanide = st.sidebar.checkbox(
     "Añadir ferricianuro experimental",
-    value=True
+    value=False
 )
 
 fatty_acids = {
