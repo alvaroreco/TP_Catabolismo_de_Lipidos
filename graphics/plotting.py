@@ -44,14 +44,15 @@ def setup_axis(ax):
     )
 
     ax.set_xlabel(
-        "Tiempo",
+        "Tiempo (u.a.)",
         fontsize=20
     )
 
     ax.set_ylabel(
-        "Concentración",
+        "Cantidad (mol)",
         fontsize=20
     )
+
 
 
 # ======================================================
@@ -93,7 +94,7 @@ def plot_species(
         fontsize=20
     )
 
-    ax.legend()
+    ax.legend(fontsize=16)
 
     plt.tight_layout()
 
@@ -122,7 +123,7 @@ def plot_carbon_flux(result):
         result,
         indices,
         labels,
-        "Flujo de carbono"
+        "Degradación del ácido graso"
     )
 
 
@@ -192,7 +193,7 @@ def plot_atp(result):
             "ATP"
         ],
 
-        "ATP"
+        "ATP acumulado"
     )
 
 
@@ -214,7 +215,7 @@ def plot_acetylcoa(result):
             "Acetyl-CoA"
         ],
 
-        "Acetyl-CoA"
+        "Acetil-CoA"
     )
 
 
@@ -238,7 +239,7 @@ def plot_oaa_malate(result):
             "Malato"
         ],
 
-        "Malato DH"
+        "Malato deshidrogenasa"
     )
     
 def plot_ketones(result):
@@ -275,9 +276,12 @@ def plot_beta_flux(
         flux,
         linewidth=3
     )
-
+    ax.set_ylabel(
+        "Velocidad (mol·u.t.⁻¹)",
+        fontsize=20
+    )
     ax.set_title(
-        "Flujo β-oxidativo"
+        "Velocidad de β-oxidación"
     )
 
     return fig, ax
@@ -421,18 +425,22 @@ def plot_ferricyanide(result):
         coef,
         fit_x
     )
-
+    ax1.set_ylabel(
+        "Mol de ferricianuro reducido",
+        fontsize=20
+    )
     ax1.plot(
         fit_x,
         fit_y,
         "--",
         color="red",
         lw=3,
-        label=f"v0={vqs:.4f}"
+        label=f"Velocidad inicial = {vqs:.4f}"
     )
 
     ax1.set_title(
-        "Ferricianuro reducido",fontsize=16
+        "Reducción de ferricianuro",
+        fontsize=16
     )
 
     ax1.legend(fontsize=16)
