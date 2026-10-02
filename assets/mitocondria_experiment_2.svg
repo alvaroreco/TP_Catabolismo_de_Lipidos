@@ -6,9 +6,9 @@
    font-family="Arial, Helvetica, sans-serif"
    version="1.1"
    id="svg105"
-   sodipodi:docname="mitocondria.svg"
+   sodipodi:docname="mitocondria_experiment_2.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   inkscape:export-filename="Mitcondria sola.png"
+   inkscape:export-filename="Mitocondria figura.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.54"
-     inkscape:cx="2001.8519"
-     inkscape:cy="752.77778"
+     inkscape:zoom="0.34"
+     inkscape:cx="2352.9412"
+     inkscape:cy="1198.5294"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -301,6 +301,20 @@
          fill="#2e8b57"
          id="path3-3" />
     </marker>
+    <marker
+       id="ab-0"
+       markerWidth="9"
+       markerHeight="8"
+       refX="9"
+       refY="4"
+       orient="auto"
+       viewBox="0 0 9 8"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 9,4 0,8 Z"
+         fill="#2a6fb0"
+         id="path2-9" />
+    </marker>
   </defs>
   <style
      id="style6">
@@ -315,10 +329,8 @@ text{fill:#222;font-size:17px}
   <rect
      width="1800"
      height="1100"
-     fill="#ffffff"
-     id="rect6"
-     x="1.8518518"
-     y="0" />
+     fill="#fff"
+     id="rect6" />
   <text
      x="900"
      y="38"
@@ -327,14 +339,14 @@ text{fill:#222;font-size:17px}
      id="text6">MODELO SIMPLIFICADO DE GEMELO DE MITOCONDRIA</text>
   <!-- Mitocondria -->
   <rect
-     x="19.839417"
-     y="119.83941"
-     width="1488.099"
-     height="770.32117"
-     rx="50.730648"
+     x="22.777779"
+     y="115.51852"
+     width="1760"
+     height="770"
+     rx="60"
      fill="#eef3f8"
      stroke="#7a7a7a"
-     stroke-width="3.67884"
+     stroke-width="4"
      id="rect7" />
   <rect
      x="45"
@@ -347,17 +359,23 @@ text{fill:#222;font-size:17px}
      stroke-width="4"
      id="rect8" />
   <text
-     x="1454.4445"
-     y="114.62964"
+     x="1704.4445"
+     y="111.85185"
      class="e B s"
-     style="font-size:21.3333px;fill:#666666"
+     style="fill:#666666"
      id="text8">Membrana externa</text>
   <text
-     x="1154.4445"
-     y="139.85185"
+     x="1150.7407"
+     y="138"
      class="m B s"
-     style="font-size:21.3333px;fill:#666666"
+     style="fill:#666666"
      id="text9">Membrana interna</text>
+  <text
+     x="1540"
+     y="172"
+     class="m B h"
+     style="fill:#666"
+     id="text10">Espacio intermembrana</text>
   <text
      x="720"
      y="195"
@@ -635,28 +653,28 @@ text{fill:#222;font-size:17px}
     <text
        xml:space="preserve"
        style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
-       x="458.62265"
-       y="431.88889"
+       x="455.84488"
+       y="396.7037"
        id="text106-4-7"><tspan
          sodipodi:role="line"
          id="tspan106-5-6"
          style="font-size:16px;stroke-width:0.5"
-         x="458.62265"
-         y="431.88889">NADH</tspan></text>
+         x="455.84488"
+         y="396.7037">NADH</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;writing-mode:lr-tb;direction:ltr;fill:#752e8b;fill-opacity:1;stroke-width:0.5"
-       x="472.00461"
-       y="469.65134"
+       x="469.22684"
+       y="434.46616"
        id="text106-9-5-1"><tspan
          sodipodi:role="line"
          id="tspan106-4-1-8"
          style="font-size:16px;stroke-width:0.5"
-         x="472.00461"
-         y="469.65134">NAD⁺</tspan></text>
+         x="469.22684"
+         y="434.46616">NAD⁺</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#5e2e8b;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-8-16)"
-       d="m 517.58386,431.90775 c 23.04826,9.57509 19.76466,34.82126 -4.7454,33.01881 l -0.3713,0.0159"
+       d="m 514.80608,396.72256 c 23.04826,9.57509 19.76466,34.82126 -4.7454,33.01881 l -0.3713,0.0159"
        id="path137-7-9"
        sodipodi:nodetypes="ccc" />
     <text
@@ -781,7 +799,7 @@ text{fill:#222;font-size:17px}
      id="path137-7-9-4-2"
      sodipodi:nodetypes="ccc" />
   <path
-     d="m 536.91816,505.81376 c -2.22437,-30.44529 -2.92398,-62.51859 -2.09886,-93.98797 0.37859,-14.43958 1.07821,-28.75199 2.09886,-42.72168"
+     d="m 538.31965,515.33682 c -2.70093,-26.87406 -5.40229,-80.18517 -4.40039,-107.9632 0.45971,-12.74582 1.30922,-25.37939 2.54854,-37.71044"
      fill="none"
      stroke="#2e8b57"
      stroke-width="2.83616"
@@ -789,7 +807,7 @@ text{fill:#222;font-size:17px}
      marker-end="url(#ag)"
      id="path36"
      sodipodi:nodetypes="csc"
-     style="stroke:#000000;stroke-width:2.73934;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ak-2);marker-end:url(#RoundedArrow)" />
+     style="stroke:#000000;stroke-width:2.836;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)" />
   <g
      class="m h"
      id="g41">
@@ -868,11 +886,21 @@ text{fill:#222;font-size:17px}
        id="text41">Oxaloacetato</text>
   </g>
   <text
-     x="723.70367"
-     y="437.03705"
+     x="720"
+     y="400"
      class="m B"
-     style="font-size:19px;fill:#555555"
+     style="fill:#555;font-size:19px"
      id="text42">CICLO DE KREBS</text>
+  <line
+     x1="733.21887"
+     y1="711.63898"
+     x2="650.27393"
+     y2="760.11926"
+     stroke="#2e8b57"
+     stroke-width="3.51795"
+     marker-end="url(#ag-9)"
+     id="line43-4"
+     style="marker-end:url(#ao);fill:#ff6600;stroke:#dd7400;stroke-opacity:1;stroke-width:3.518;stroke-dasharray:none" />
   <g
      class="s"
      id="g52">
@@ -897,8 +925,8 @@ text{fill:#222;font-size:17px}
        class="e B"
        id="text50">FH</text>
     <text
-       x="579.40741"
-       y="440.66666"
+       x="577.55554"
+       y="405.48148"
        class="e B"
        style="font-size:17px;fill:#020704;fill-opacity:1"
        id="text51">MDH</text>
@@ -913,6 +941,16 @@ text{fill:#222;font-size:17px}
      style="stroke:#e07a1f"
      marker-end="url(#ao)"
      id="line52" />
+  <line
+     x1="775.61511"
+     y1="780"
+     x2="641.01215"
+     y2="780"
+     class="ln"
+     style="fill:#0000ff;stroke:#e01f1f;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+     marker-start="url(#ao)"
+     marker-end="url(#ao)"
+     id="line55" />
   <rect
      x="115"
      y="760"
@@ -954,16 +992,23 @@ text{fill:#222;font-size:17px}
      y="786"
      class="m"
      id="text55">Acetoacetato</text>
-  <line
-     x1="764.67816"
-     y1="780"
-     x2="650.09717"
-     y2="780"
-     class="ln"
-     style="fill:#0000ff;stroke:#e01f1f;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#ab)"
-     marker-start="url(#ao)"
-     marker-end="url(#ao)"
-     id="line55" />
+  <rect
+     x="738.21075"
+     y="684.67377"
+     width="188.65259"
+     height="39.763702"
+     rx="7.546104"
+     class="ob"
+     id="rect54-3"
+     style="fill:#fdeedd;stroke:#e07a1f;stroke-width:2.23629" />
+  <text
+     x="831.61108"
+     y="710.5556"
+     class="m"
+     id="text55-8"
+     style="font-size:17px;text-anchor:middle;fill:#222222"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, Helvetica, sans-serif;-inkscape-font-specification:'Arial, Helvetica, sans-serif Bold'"
+       id="tspan1">Acetoacetato exógeno</tspan></text>
   <text
      x="720"
      y="770"
@@ -983,21 +1028,6 @@ text{fill:#222;font-size:17px}
      y="786"
      class="m"
      id="text58">β-Hidroxibutirato</text>
-  <path
-     d="M520 760V690H400V652"
-     fill="none"
-     stroke="#e07a1f"
-     stroke-width="2.5"
-     stroke-dasharray="9 6"
-     marker-end="url(#ao)"
-     id="path58"
-     style="stroke:#1f44e0;stroke-opacity:1;marker-end:url(#ab)" />
-  <text
-     x="410"
-     y="680"
-     class="s B"
-     style="fill:#0000ff"
-     id="text59">Predominante en miocitos</text>
   <!-- Cadena respiratoria -->
   <g
      class="vb"
@@ -1070,8 +1100,8 @@ text{fill:#222;font-size:17px}
        ry="27"
        id="ellipse65" />
     <ellipse
-       cx="1336.8518"
-       cy="622.96295"
+       cx="1334.0741"
+       cy="623.88892"
        rx="50"
        ry="24"
        id="ellipse66" />
@@ -1105,8 +1135,8 @@ text{fill:#222;font-size:17px}
        class="h B"
        id="text70">Complejo IV</text>
     <text
-       x="1338.7037"
-       y="627.03705"
+       x="1333.1482"
+       y="627.96295"
        class="s B"
        id="text71">Citocromo c</text>
   </g>
@@ -1151,21 +1181,21 @@ text{fill:#222;font-size:17px}
        marker-end="url(#av)"
        id="line75" />
     <line
-       x1="1309.6263"
-       y1="563.96429"
-       x2="1329.3429"
-       y2="597.14691"
+       x1="1298.4578"
+       y1="564.93103"
+       x2="1326.2831"
+       y2="600.80969"
        marker-end="url(#av)"
        id="line76"
-       style="stroke-width:1.21719" />
+       style="stroke-width:1.50357" />
     <line
-       x1="1336.54"
-       y1="647.06464"
-       x2="1310.5341"
-       y2="677.12054"
+       x1="1327.3108"
+       y1="646.16473"
+       x2="1304.0226"
+       y2="673.39075"
        marker-end="url(#av)"
        id="line77"
-       style="stroke-width:1.08392" />
+       style="stroke-width:0.976241" />
     <line
        x1="1228"
        y1="714"
@@ -1195,6 +1225,288 @@ text{fill:#222;font-size:17px}
      style="fill:#7b3fa0"
      id="text79">fosforilación oxidativa</text>
   <!-- Rotenona -->
+  <rect
+     x="1430"
+     y="200"
+     width="130"
+     height="32"
+     rx="6"
+     class="rb"
+     id="rect79" />
+  <text
+     x="1495"
+     y="222"
+     class="m B"
+     style="fill:#c0392b"
+     id="text80">Rotenona</text>
+  <line
+     x1="1430"
+     y1="216"
+     x2="1370"
+     y2="216"
+     stroke="#c0392b"
+     stroke-width="3"
+     id="line80" />
+  <line
+     x1="1366"
+     y1="198"
+     x2="1366"
+     y2="234"
+     stroke="#c0392b"
+     stroke-width="6"
+     id="line81" />
   <!-- Ferricianuro -->
+  <rect
+     x="1554.9088"
+     y="289.91052"
+     width="210.18242"
+     height="458.8876"
+     rx="10.008686"
+     fill="none"
+     stroke="#c0392b"
+     stroke-width="1.81939"
+     stroke-dasharray="8, 5"
+     id="rect81" />
+  <text
+     x="1660"
+     y="318"
+     class="m B h"
+     style="fill:#c0392b"
+     id="text81">ENSAYO EXPERIMENTAL</text>
+  <text
+     x="1660"
+     y="338"
+     class="m s"
+     style="fill:#c0392b"
+     id="text82">(lectura, no fisiológico)</text>
+  <g
+     class="rb"
+     id="g84">
+    <rect
+       x="1570"
+       y="380"
+       width="180"
+       height="56"
+       rx="6"
+       id="rect82" />
+    <rect
+       x="1570"
+       y="500"
+       width="180"
+       height="56"
+       rx="6"
+       id="rect83" />
+    <rect
+       x="1570"
+       y="620"
+       width="180"
+       height="56"
+       rx="6"
+       id="rect84" />
+  </g>
+  <g
+     class="m"
+     id="g93">
+    <text
+       x="1660"
+       y="403"
+       class="h"
+       id="text84"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, Helvetica, sans-serif;-inkscape-font-specification:'Arial, Helvetica, sans-serif Bold'"
+         id="tspan2">Ferricianuro</tspan></text>
+    <text
+       x="1660"
+       y="426"
+       id="text85"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, Helvetica, sans-serif;-inkscape-font-specification:'Arial, Helvetica, sans-serif Bold'"
+         id="tspan3">Fe(CN)₆³⁻</tspan></text>
+    <text
+       x="1660"
+       y="523"
+       class="h"
+       id="text86"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, Helvetica, sans-serif;-inkscape-font-specification:'Arial, Helvetica, sans-serif Bold'"
+         id="tspan4">Ferrocianuro</tspan></text>
+    <text
+       x="1660"
+       y="546"
+       id="text87"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, Helvetica, sans-serif;-inkscape-font-specification:'Arial, Helvetica, sans-serif Bold'"
+         id="tspan5">Fe(CN)₆⁴⁻</tspan></text>
+    <text
+       x="1663.7037"
+       y="648.44446"
+       class="B"
+       id="text88"><tspan
+         sodipodi:role="line"
+         id="tspan144"
+         x="1663.7037"
+         y="648.44446">Señal experimental</tspan><tspan
+         sodipodi:role="line"
+         id="tspan145"
+         x="1663.7037"
+         y="669.69446">ΔAbs 420</tspan></text>
+    <text
+       x="1660"
+       y="715"
+       class="s"
+       style="font-style:italic"
+       id="text89">Aceptor artificial</text>
+    <text
+       x="1660"
+       y="733"
+       class="s"
+       style="font-style:italic"
+       id="text90">de electrones</text>
+    <text
+       x="1660"
+       y="775"
+       class="h B"
+       style="fill:#c0392b"
+       id="text91" />
+    <text
+       x="1660"
+       y="794"
+       class="h B"
+       style="fill:#c0392b"
+       id="text92" />
+    <text
+       x="1660"
+       y="813"
+       class="h B"
+       style="fill:#c0392b"
+       id="text93" />
+    <g
+       id="svg105-4"
+       transform="translate(-8.5,-1.2592593)">
+      <path
+         d="M 520,760 V 690 H 400 v -38"
+         fill="none"
+         stroke="#e07a1f"
+         stroke-width="2.5"
+         stroke-dasharray="9, 6"
+         marker-end="url(#ao)"
+         id="path58"
+         style="stroke:#1f44e0;stroke-opacity:1;marker-end:url(#ab-0)" />
+      <text
+         x="501"
+         y="680"
+         class="s B"
+         style="font-weight:bold;font-size:14px;fill:#0000ff"
+         id="text59">Predominante en miocitos</text>
+    </g>
+  </g>
+  <g
+     stroke="#c0392b"
+     stroke-width="2.5"
+     fill="none"
+     id="g95">
+    <line
+       x1="1382.6313"
+       y1="608.98871"
+       x2="1567.0353"
+       y2="425.45575"
+       marker-end="url(#ar)"
+       id="line93"
+       style="stroke-width:4.05409" />
+    <line
+       x1="1660"
+       y1="436"
+       x2="1660"
+       y2="500"
+       marker-end="url(#ar)"
+       id="line94" />
+    <line
+       x1="1660"
+       y1="556"
+       x2="1660"
+       y2="620"
+       marker-end="url(#ar)"
+       id="line95" />
+  </g>
+  <text
+     x="1672"
+     y="473"
+     class="s"
+     style="fill:#c0392b"
+     id="text95">+ e⁻</text>
   <!-- Panel comparativo -->
+  <rect
+     x="30"
+     y="905"
+     width="850"
+     height="175"
+     rx="8"
+     fill="#fafafa"
+     stroke="#888"
+     stroke-width="2"
+     id="rect95" />
+  <rect
+     x="920"
+     y="905"
+     width="850"
+     height="175"
+     rx="8"
+     fill="#fafafa"
+     stroke="#888"
+     stroke-width="2"
+     id="rect96" />
+  <text
+     x="50"
+     y="937"
+     class="B"
+     style="font-size:19px"
+     id="text96"><tspan
+       style="fill:#ff0000"
+       id="tspan139">HEPATOCITO</tspan></text>
+  <text
+     x="50"
+     y="969"
+     id="text97"><tspan
+       style="fill:#ff0000"
+       id="tspan140">• Cetogénesis activa</tspan></text>
+  <text
+     x="50"
+     y="997"
+     id="text98"><tspan
+       style="fill:#ff0000"
+       id="tspan141">• Producción de Acetoacetato y β-Hidroxibutirato</tspan></text>
+  <text
+     x="50"
+     y="1025"
+     id="text99"><tspan
+       style="fill:#ff0000"
+       id="tspan142">• Oxaloacetato estimula β-oxidación</tspan></text>
+  <text
+     x="50"
+     y="1053"
+     id="text100"><tspan
+       style="fill:#ff0000"
+       id="tspan143">• Acetoacetato puede estimular β-oxidación</tspan></text>
+  <text
+     x="940"
+     y="937"
+     class="B"
+     style="font-size:19px;fill:#0000ff"
+     id="text101">MIOCITO</text>
+  <text
+     x="940"
+     y="969"
+     id="text102"
+     style="fill:#0000ff">• Baja cetogénesis</text>
+  <text
+     x="940"
+     y="997"
+     id="text103"
+     style="fill:#0000ff">• Utilización de cuerpos cetónicos</text>
+  <text
+     x="940"
+     y="1025"
+     id="text104"
+     style="fill:#0000ff">• Acetoacetato → Acetil-CoA</text>
+  <text
+     x="940"
+     y="1053"
+     id="text105"
+     style="fill:#0000ff">• Oxaloacetato es el principal estimulador</text>
 </svg>
