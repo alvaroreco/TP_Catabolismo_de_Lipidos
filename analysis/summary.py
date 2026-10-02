@@ -13,23 +13,37 @@ def simulation_summary(
         "Variable":[
 
             "ATP generado",
+<<<<<<< HEAD
             "AcetylCoA final",
 
+=======
+
+            "Acetil-CoA final",
+>>>>>>> 7e5bc0691118137cbc68df21476da6e813642abb
 
             "NAD+",
+
             "NADH",
 
+            "Ferrocianuro equivalente",
+
             "FAD",
+
             "FADH2",
 
-            "Oxaloacetato",
+            "Oxalacetato",
+
             "Malato",
 
             "Acetoacetato",
+<<<<<<< HEAD
             "β-Hidroxibutirato",
             "Ferricianuro final",
             "Velocidad de reducción de ferricianuro"
+=======
+>>>>>>> 7e5bc0691118137cbc68df21476da6e813642abb
 
+            "β-Hidroxibutirato"
         ],
 
         "Valor":[
@@ -53,8 +67,17 @@ def simulation_summary(
             ][-1],
             
             ferrocyanide_equivalent = (
+<<<<<<< HEAD
                 2.0 * nadh_final
             )
+=======
+                2.0
+                *
+                result.y[
+                    SPECIES["nadh"]
+                ][-1]
+)
+>>>>>>> 7e5bc0691118137cbc68df21476da6e813642abb
             result.y[
                 SPECIES["fad"]
             ][-1],
@@ -80,6 +103,7 @@ def simulation_summary(
             result.y[
                 SPECIES["bhb"]
             ][-1],
+<<<<<<< HEAD
             
             result.y[
                 SPECIES[
@@ -88,3 +112,12 @@ def simulation_summary(
             ][-1],
             
             vqs
+=======
+
+            vqs
+            
+
+        ]
+
+    })
+>>>>>>> 7e5bc0691118137cbc68df21476da6e813642abb

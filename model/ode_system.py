@@ -44,20 +44,11 @@ def derivatives(
     # β-OXIDACION
     # =====================================
 
-    flux = beta_oxidation_step(
+    beta_oxidation_step(
         y,
         p,
         dydt
     )
-
-    if p["ferricyanide"]:
-        dydt[
-            SPECIES["ferricyanide_signal"]
-        ] = flux
-    else:
-        dydt[
-            SPECIES["ferricyanide_signal"]
-        ] = 0
     # =====================================
     # KREBS
     # =====================================
