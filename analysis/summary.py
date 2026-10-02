@@ -27,7 +27,7 @@ def simulation_summary(
 
             "Acetoacetato",
             "β-Hidroxibutirato",
-            "Ferricyanuro final",
+            "Ferricianuro final",
             "Velocidad de reducción de ferricianuro"
 
         ],
